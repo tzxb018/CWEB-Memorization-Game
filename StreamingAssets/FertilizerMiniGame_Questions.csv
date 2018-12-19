@@ -1,0 +1,41 @@
+Difficulty 	Category	Hint	Answer
+1	Alternate Names 	Caramide	Urea
+1	Alternate Names 	MAP	Monoammonium Phosphate
+1	Alternate Names 	Potash 	Potassium Chloride 
+1	NPK	82-0-0	Anydrous Ammonia 
+1	NPK	46-0-0	Urea
+1	NPK	10-50-0	Monoammonium Phosphate
+1	NPK	0-0-60	Potash
+1	Phase	Gas	Anydrous Ammonia 
+1	Phase	Liquid/Solid	Urea
+1	Phase	Granular	Monoammonium Phosphate
+1	Phase	Crystalline 	Potassium Chloride 
+1	Shelf Life 	"1 Year, Explosive"	Anydrous Ammonia 
+1	Shelf Life 	"6 Months, Non-Hazardous "	Urea
+1	Shelf Life 	"9 Months, Non-Hazardous"	Monoammonium Phosphate
+1	Shelf Life 	"5 Years, Non-Hazardous "	Potassium Chloride 
+2	Symbol	NH3	Anydrous Ammonia 
+2	Symbol	H2NCONH2	Urea
+2	Symbol	NH4H2PO4	Monoammonium Phosphate
+2	Symbol	KCl	Potassium Chloride 
+2	pH	>10	Anydrous Ammonia 
+2	pH	Soils < 7 pH	Urea
+2	pH	4.5	Monoammonium Phosphate
+2	pH	7 (Neutral)	Potassium Chloride 
+2	Image	anhydrous_ammonia.png	Anydrous Ammonia 
+2	Image	urea.png	Urea
+2	Image	Monoammonium_phosphate.png	Monoammonium Phosphate
+2	Image	potassium_chloride.png	Potassium Chloride 
+3	Formula	anhydrous_ammonia_diagram.png	Anydrous Ammonia 
+3	Formula	urea_diagram.png	Urea
+3	Formula	Monoammonium_phosphate_diagram.png	Monoammonium Phosphate
+3	Formula	potassium_chloride_diagram.png	Potassium Chloride 
+3	Toxins	Biuret	Urea
+3	Molecular Weight	17.03 g/mol	Anydrous Ammonia 
+3	Molecular Weight	60.06 g/mol	Urea
+3	Molecular Weight	115.03 g/mol	Monoammonium Phosphate
+3	Molecular Weight	74.55 g/mol	Potassium Chloride 
+3	Melting Point	-77.73	Anydrous Ammonia 
+3	Melting Point	133oC	Urea
+3	Melting Point	190oC	Monoammonium Phosphate
+3	Melting Point	773 oC	Potassium Chloride 
